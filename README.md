@@ -13,5 +13,5 @@
 从shell工具简单的安装包到你的$GOPATH中:
 
 ```
-$ go get -u https://github.com/gofuc/session
+$ go get -u https://github.com/gofunc-x/session
 ```
